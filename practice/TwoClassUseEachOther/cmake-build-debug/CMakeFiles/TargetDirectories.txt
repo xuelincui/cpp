@@ -1,3 +1,0 @@
-/home/xcui/Folder/folder/TwoClassUseEachOther/cmake-build-debug/CMakeFiles/TwoClassUseEachOther.dir
-/home/xcui/Folder/folder/TwoClassUseEachOther/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/xcui/Folder/folder/TwoClassUseEachOther/cmake-build-debug/CMakeFiles/rebuild_cache.dir
