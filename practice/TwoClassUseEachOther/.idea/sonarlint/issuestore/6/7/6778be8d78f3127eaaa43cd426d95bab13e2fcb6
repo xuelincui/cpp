@@ -1,3 +1,4 @@
 
-q	cpp:S5812"/Concatenate this namespace with the nested one.(ã¥­Ú8œõÜ–2J$dd9c2c1b-9c2f-44af-afb8-89dbf33b002d
-m	cpp:S3656"+Member variables should not be "protected".(¯¿ƒ¢8Ğ¾²Ú–2J$9d515db2-5af1-4cfb-91fb-ddd98039ee9e
+K	cpp:S5812
+"/Concatenate this namespace with the nested one.(ã¥­Ú8‰ì‹­—2
+b	cpp:S3539%"ARemove this access specifier; it does not affect any declaration.(ĞòÚÚüÿÿÿÿ8Šì‹­—2

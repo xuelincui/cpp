@@ -5,32 +5,37 @@
 #ifndef TWOCLASSUSEEACHOTHER_CLASS_BAR_HPP
 #define TWOCLASSUSEEACHOTHER_CLASS_BAR_HPP
 
+#include "iostream"
+
 namespace class_bar
 {
 namespace class_bar_2
 {
 
 class foo;
-class bar;
 
+template <typename T>
 class barBase
 {
 public:
-    barBase();
-
+    barBase() = default;
+    void barBase_print(int n) // function later gets called to add n to m_k
+    {
+        m_k += n;
+        std::cout << "barBase printing m_k = " << m_k<< std::endl;
+    }
+private:
+    int m_k = 1; // m_k initialized as 1
 };
 
-class bar : public barBase
+class bar : public barBase <int>
 {
 public:
     bar() = default;
-
-    foo *getFoo();
-
     void bar_print();
 
-protected:
-    foo *f;
+private:
+
 };
 
 }   // class_bar_2

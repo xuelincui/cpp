@@ -1,10 +1,6 @@
 
 >
 CMakeLists.txt,9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae
-C
-include/class_A.hpp,2/0/2093fe260e62057e760f835eec990c2bb3819d94
-C
-include/class_B.hpp,9/1/91739df24a0d9fbccc4b885512244d08324dc664
 E
 include/class_bar.hpp,6/7/6778be8d78f3127eaaa43cd426d95bab13e2fcb6
 E

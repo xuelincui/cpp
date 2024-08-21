@@ -9,13 +9,18 @@
 
 namespace class_foo
 {
-class foo;
 
+foo::foo(double dt, bar& b, int n, bool flag)
+        : m_dt(dt),
+          m_b(&b)
+{
+    m_int = n;
+}
 
 void foo::foo_print_from_bar()
 {
+    std::cout << m_dt << m_b <<m_int << m_flag;
     std::cout << "foo print using ";
-    m_b->bar_print();
+    m_b->barBase_print(6); // method of class barBase to do addition and pinting
 }
-
 }
