@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TwoClassUseEachOther",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TwoClassUseEachOther::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TwoClassUseEachOther-Debug-e8e1b01d8d7f9e4124f1.json",
+					"name" : "TwoClassUseEachOther",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/xcui/Folder/folder/tbd/tempfolder/cpp/practice/TwoClassUseEachOther/cmake-build-debug",
+		"source" : "/home/xcui/Folder/folder/tbd/tempfolder/cpp/practice/TwoClassUseEachOther"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

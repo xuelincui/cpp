@@ -24,10 +24,10 @@ namespace class_foo
 class foo
 {
 public:
-    foo() = default;
+//    foo() = default;
     explicit foo(double dt, bar& b, int n=5, bool flag=false);
 
-    void foo_print_from_bar();
+    void foo_print_from_bar(int n);
 
 private:
     bar* m_b = NULL; // member point of class foo that points to class bar

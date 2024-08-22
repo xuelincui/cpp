@@ -1,0 +1,5 @@
+
+	cpp:S3490"VUse "=default" instead of the default implementation of this special member functions.(‰ÒõÄùÿÿÿÿ8”ÌËÜ—2J$08013ca8-2f40-4954-8f9d-ec5ff3f06ca4
+u	cpp:S3229".Field "m_dt" is initialized after field "m_b".(åŠ·õüÿÿÿÿ8…ÉÏÜ—2J$c93e3ad6-9780-4c8e-9215-7a269c425ed1
+¨	cpp:S3230"aDo not assign data members in a constructor. Initialize member "m_int" in an initialization list.(àÜ‘úÿÿÿÿ8–ÒÎÜ—2J$ec975309-348b-4388-a67c-458e163d6feb
+˜	cpp:S1172"VRemove the unused parameter "flag", make it unnamed, or declare it "[[maybe_unused]]".(éÉ«Á8‡ÉÏÜ—2J$63636f07-d508-432b-824b-3ea58ada982e

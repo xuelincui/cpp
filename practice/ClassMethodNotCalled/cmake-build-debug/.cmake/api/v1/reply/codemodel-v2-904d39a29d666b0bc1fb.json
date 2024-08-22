@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ClassMethodNotCalled",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ClassMethodNotCalled::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ClassMethodNotCalled-Debug-e5686a33f5a8fcdf27d5.json",
+					"name" : "ClassMethodNotCalled",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/xcui/Folder/folder/tbd/tempfolder/cpp/practice/ClassMethodNotCalled/cmake-build-debug",
+		"source" : "/home/xcui/Folder/folder/tbd/tempfolder/cpp/practice/ClassMethodNotCalled"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

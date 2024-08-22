@@ -19,22 +19,24 @@ class barBase
 {
 public:
     barBase() = default;
-    void barBase_print(int n) // function later gets called to add n to m_k
+    virtual void bar_print(int n) = 0; // function later gets called to add n to m_k
+    void call_bar_print(int n)
     {
-        m_k += n;
-        std::cout << "barBase printing m_k = " << m_k<< std::endl;
+        bar_print(n);
     }
+
 private:
-    int m_k = 1; // m_k initialized as 1
+
 };
 
 class bar : public barBase <int>
 {
 public:
     bar() = default;
-    void bar_print();
+    void bar_print(int n);
 
 private:
+    int m_k = 1; // m_k initialized as 1
 
 };
 

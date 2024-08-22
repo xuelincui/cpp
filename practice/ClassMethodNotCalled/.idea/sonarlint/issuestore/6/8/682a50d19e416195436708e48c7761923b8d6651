@@ -1,0 +1,5 @@
+
+n	cpp:S5827"'Replace the redundant type with "auto".(²Àö”ÿÿÿÿÿ8Ð…Ì¸—2J$447b6c02-798e-4546-9dad-82839e64df0c
+˜	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(ð®„Ôøÿÿÿÿ8Ñ…Ì¸—2J$f082006f-510d-4ec7-a882-a769bcf85186
+t	cpp:S5008"9Replace this use of "void *" with a more meaningful type.(¨¬ö–J$efaf4479-5a3a-47f9-8fe2-209eb694b3ee
+p	cpp:S3584".Potential leak of memory pointed to by 'child'(”·³›8Ø…Ì¸—2J$3bbc71db-562d-4d56-b7ba-64c19b9102fa

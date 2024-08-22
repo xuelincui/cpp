@@ -1,4 +1,7 @@
 
-K	cpp:S5812
-"/Concatenate this namespace with the nested one.(ã¥­Ú8‰ì‹­—2
-b	cpp:S3539%"ARemove this access specifier; it does not affect any declaration.(ĞòÚÚüÿÿÿÿ8Šì‹­—2
+	cpp:S1235"W'class_bar::class_bar_2::barBase<int>' has virtual functions but non-virtual destructor(Ú“®àşÿÿÿÿ8Ößş¿—2J$73ee9b67-7e1f-43bd-94d7-5d8b6a39aeca
+•	cpp:S1235 "N'class_bar::class_bar_2::bar' has virtual functions but non-virtual destructor(ïûáúÿÿÿÿ8”èÀ—2J$0af9d159-166a-4fc9-915b-6c98e9cf7396
+q	cpp:S5812
+"/Concatenate this namespace with the nested one.(ã¥­Ú8•èÀ—2J$cc62446a-5064-44bc-9cae-7797d8079a11
+ˆ	cpp:S3539"ARemove this access specifier; it does not affect any declaration.(ĞòÚÚüÿÿÿÿ8–èÀ—2J$eb794a95-600a-40ef-b0b0-cef7a090598b
+y	cpp:S3471$"2Annotate this function with "override" or "final".(ÁòÌ×øÿÿÿÿ8˜èÀ—2J$2bff5c84-5489-430e-bd73-b8a2e26957ee

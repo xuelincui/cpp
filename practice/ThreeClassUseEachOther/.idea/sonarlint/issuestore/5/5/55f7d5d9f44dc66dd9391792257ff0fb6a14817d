@@ -1,0 +1,4 @@
+
+T	cpp:S1481"unused variable 'b'(›ªÿ8´Æ—‹ó2J$44e8a51f-8b93-47fa-8190-e94fd76467f1
+£	cpp:S3230"aDo not assign data members in a constructor. Initialize member "m_foo" in an initialization list.(Ëæåº8›î“‹ó2J$777d802a-a3ec-4912-9c69-34b9aa20e22d
+k	cpp:S5817")This function should be declared "const".(ä¢√è8›î“‹ó2J$44901125-c674-4d53-8cb6-d78a81a62834

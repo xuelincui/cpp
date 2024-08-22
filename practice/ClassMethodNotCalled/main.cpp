@@ -1,7 +1,15 @@
 #include <iostream>
+#include "include/classes.hpp"
+
+void callBaseB(void *p)
+{
+    BaseB *b = (BaseB *) p;
+    b->methodB(0);
+}
 
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
+    auto child = new Child;
+    callBaseB(child);
     return 0;
 }
