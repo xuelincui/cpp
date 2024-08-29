@@ -4,4 +4,5 @@ project(ClassMethodNotCalled)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(ClassMethodNotCalled main.cpp
-               include/classes.hpp)
+               include/classes.hpp
+               src/classes.cpp)

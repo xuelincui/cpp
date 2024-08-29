@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "ClassMethodNotCalled"
+			"path" : "PointerToDerivedClass"
 		}
 	],
 	"backtrace" : 1,
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "ClassMethodNotCalled::@6890427a1f51a3e7e1df",
+	"id" : "PointerToDerivedClass::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "ClassMethodNotCalled",
-	"nameOnDisk" : "ClassMethodNotCalled",
+	"name" : "PointerToDerivedClass",
+	"nameOnDisk" : "PointerToDerivedClass",
 	"paths" : 
 	{
 		"build" : ".",
@@ -84,13 +84,6 @@
 			[
 				0
 			]
-		},
-		{
-			"name" : "Header Files",
-			"sourceIndexes" : 
-			[
-				1
-			]
 		}
 	],
 	"sources" : 
@@ -100,11 +93,6 @@
 			"compileGroupIndex" : 0,
 			"path" : "main.cpp",
 			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "include/classes.hpp",
-			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"

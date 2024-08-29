@@ -1,15 +1,16 @@
 #include <iostream>
 #include "include/classes.hpp"
-
-void callBaseB(void *p)
-{
-    BaseB *b = (BaseB *) p;
-    b->methodB(0);
-}
+#include "map"
 
 int main()
 {
-    auto child = new Child;
-    callBaseB(child);
-    return 0;
+    Cb cb(1);  // instanciate Cb
+
+    std::map<int, Cb> m;
+    m.emplace(1, std::move(cb));
+
+    Cb& ccb = m.at(1);
+    int i = ccb.getCa();
+
+    std::cout << "va = " << i << std::endl;
 }

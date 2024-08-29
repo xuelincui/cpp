@@ -1,0 +1,15 @@
+
+~	cpp:S1235"<'Base<int>' has virtual functions but non-virtual destructor(ÛÎ¢8İ©“ù™2J$2ff7c7ae-e760-44be-ada3-23f31967d122
+}	cpp:S1235";'Derived1' has virtual functions but non-virtual destructor(ÄÇ«›8å›‡û™2J$f8503941-76c9-48c0-b971-e7a68292331f
+}	cpp:S1235*";'Derived2' has virtual functions but non-virtual destructor(Â¹Í›8İ©“ù™2J$9d48c042-c04b-40bc-8028-77f850f74495
+–	cpp:S3490
+"VUse "=default" instead of the default implementation of this special member functions.(üô¸ëüÿÿÿÿJ$1d7f5092-a95e-44fe-a182-4c671da39285
+‘	cpp:S3490"VUse "=default" instead of the default implementation of this special member functions.(ÛÎ¢J$57dbb0ad-56d1-4857-a3f5-04a2e80792cd
+˜	cpp:S3490"VUse "=default" instead of the default implementation of this special member functions.(Î–Ù•8Åô‡ö™2J$a430c232-c2e5-42f4-a662-15cbef71dcee
+y	cpp:S3471"2Annotate this function with "override" or "final".(ø€©’øÿÿÿÿ8â©“ù™2J$49feddf4-09ec-449b-a1c7-4d7c830a6552
+N	cpp:S3471""2Annotate this function with "override" or "final".(ñö8‹í£û™2
+˜	cpp:S3490-"VUse "=default" instead of the default implementation of this special member functions.(›âÄé8é›‡û™2J$e9388b83-4add-438b-b2d7-c584153727d8
+y	cpp:S3471."2Annotate this function with "override" or "final".(ø€©’øÿÿÿÿ8é›‡û™2J$3d209b3b-041f-48c0-8f61-865cd91d484c
+N	cpp:S34713"2Annotate this function with "override" or "final".(ñö8‹í£û™2
+q	cpp:S1709?"/Add the "explicit" keyword to this constructor.(æŠÅì8€úÒõ™2J$8d8b51ed-5c36-4ad0-969b-8813c9da3689
+˜	cpp:S3490O"VUse "=default" instead of the default implementation of this special member functions.(§¯…8¯˜ö™2J$85e3f072-32c5-40bd-8f7d-93beddecf41a

@@ -6,30 +6,26 @@
 #define CLASSMETHODNOTCALLED_CLASSES_HPP
 
 #include "iostream"
+#include "memory"
 
-class BaseA
+class Ca
 {
+    int m_va = 5;
 public:
-    virtual void methodA() = 0;
+    Ca();
+    int getVa();
 };
 
-class BaseB
-{
-public:
-    virtual void methodB(int val) = 0;
-};
 
-class Child : public BaseA, public BaseB
+class Cb
 {
+    std::unique_ptr<Ca> m_x;
+    int m_vb;
 public:
-    void methodA() override
-    {
-        printf("Child A\n");
-    }
-    void methodB(int val) override
-    {
-        printf("Child B %d\n", val);
-    }
-};
+    explicit Cb(int n);
 
+    Cb (Cb&&) = default;
+    ~Cb();
+    int getCa();
+};
 #endif //CLASSMETHODNOTCALLED_CLASSES_HPP

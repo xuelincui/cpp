@@ -1,0 +1,3 @@
+/home/xcui/Folder/folder/tbd/tempfolder/cpp/practice/PointerToDerivedClass/cmake-build-debug/CMakeFiles/PointerToDerivedClass.dir
+/home/xcui/Folder/folder/tbd/tempfolder/cpp/practice/PointerToDerivedClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xcui/Folder/folder/tbd/tempfolder/cpp/practice/PointerToDerivedClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir

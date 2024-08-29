@@ -57,6 +57,14 @@ build CMakeFiles/ClassMethodNotCalled.dir/main.cpp.o: CXX_COMPILER__ClassMethodN
   TARGET_COMPILE_PDB = CMakeFiles/ClassMethodNotCalled.dir/
   TARGET_PDB = ClassMethodNotCalled.pdb
 
+build CMakeFiles/ClassMethodNotCalled.dir/src/classes.cpp.o: CXX_COMPILER__ClassMethodNotCalled_unscanned_Debug /home/xcui/Folder/folder/tbd/tempfolder/cpp/practice/ClassMethodNotCalled/src/classes.cpp || cmake_object_order_depends_target_ClassMethodNotCalled
+  DEP_FILE = CMakeFiles/ClassMethodNotCalled.dir/src/classes.cpp.o.d
+  FLAGS = -g -std=gnu++1z -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ClassMethodNotCalled.dir
+  OBJECT_FILE_DIR = CMakeFiles/ClassMethodNotCalled.dir/src
+  TARGET_COMPILE_PDB = CMakeFiles/ClassMethodNotCalled.dir/
+  TARGET_PDB = ClassMethodNotCalled.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ClassMethodNotCalled
@@ -65,7 +73,7 @@ build CMakeFiles/ClassMethodNotCalled.dir/main.cpp.o: CXX_COMPILER__ClassMethodN
 #############################################
 # Link the executable ClassMethodNotCalled
 
-build ClassMethodNotCalled: CXX_EXECUTABLE_LINKER__ClassMethodNotCalled_Debug CMakeFiles/ClassMethodNotCalled.dir/main.cpp.o
+build ClassMethodNotCalled: CXX_EXECUTABLE_LINKER__ClassMethodNotCalled_Debug CMakeFiles/ClassMethodNotCalled.dir/main.cpp.o CMakeFiles/ClassMethodNotCalled.dir/src/classes.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/ClassMethodNotCalled.dir
   POST_BUILD = :

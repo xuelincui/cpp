@@ -1,7 +1,17 @@
 
-	cpp:S1235"W'class_bar::class_bar_2::barBase<int>' has virtual functions but non-virtual destructor(Ú“®àşÿÿÿÿ8Ößş¿—2J$78423b34-fcaa-4d59-a60a-8daee156f571
-•	cpp:S1235"N'class_bar::class_bar_2::bar' has virtual functions but non-virtual destructor(ïûáúÿÿÿÿ8”èÀ—2J$8a841a40-09de-43c3-87ad-1da3ca5ecd60
+	cpp:S1235"W'class_bar::class_bar_2::barBase<int>' has virtual functions but non-virtual destructor(Ú“®àşÿÿÿÿ8Ößş¿—2J$f92f4310-5e14-43f6-b4d5-d998238b1f56
+•	cpp:S1235"N'class_bar::class_bar_2::bar' has virtual functions but non-virtual destructor(ïûáúÿÿÿÿ8”èÀ—2J$b0ffc8cb-b4db-4f12-9458-deebf068321a
+x	cpp:S1235"W'class_bar::class_bar_2::barBase<int>' has virtual functions but non-virtual destructor(Ú“®àşÿÿÿÿ8Ä§´İ—2
+o	cpp:S1235"N'class_bar::class_bar_2::bar' has virtual functions but non-virtual destructor(ïûáúÿÿÿÿ8Ä§´İ—2
+x	cpp:S1235"W'class_bar::class_bar_2::barBase<int>' has virtual functions but non-virtual destructor(Ú“®àşÿÿÿÿ8ø¨´İ—2
+o	cpp:S1235"N'class_bar::class_bar_2::bar' has virtual functions but non-virtual destructor(ïûáúÿÿÿÿ8ø¨´İ—2
+x	cpp:S1235"W'class_bar::class_bar_2::barBase<int>' has virtual functions but non-virtual destructor(Ú“®àşÿÿÿÿ8³ª´İ—2
+o	cpp:S1235"N'class_bar::class_bar_2::bar' has virtual functions but non-virtual destructor(ïûáúÿÿÿÿ8³ª´İ—2
+x	cpp:S1235"W'class_bar::class_bar_2::barBase<int>' has virtual functions but non-virtual destructor(Ú“®àşÿÿÿÿ8ó«´İ—2
+o	cpp:S1235"N'class_bar::class_bar_2::bar' has virtual functions but non-virtual destructor(ïûáúÿÿÿÿ8ó«´İ—2
+x	cpp:S1235"W'class_bar::class_bar_2::barBase<int>' has virtual functions but non-virtual destructor(Ú“®àşÿÿÿÿ8©­´İ—2
+o	cpp:S1235"N'class_bar::class_bar_2::bar' has virtual functions but non-virtual destructor(ïûáúÿÿÿÿ8©­´İ—2
 q	cpp:S5812
-"/Concatenate this namespace with the nested one.(ã¥­Ú8•èÀ—2J$c8719c6d-d5cf-4d5c-8682-c24c83b383f9
-ˆ	cpp:S3539"ARemove this access specifier; it does not affect any declaration.(ĞòÚÚüÿÿÿÿ8–èÀ—2J$230dac47-8417-4f4a-b1cd-d4d58311f26f
-y	cpp:S3471""2Annotate this function with "override" or "final".(ÁòÌ×øÿÿÿÿ8˜èÀ—2J$56238fa2-8707-4d10-a567-241363434a65
+"/Concatenate this namespace with the nested one.(ã¥­Ú8•èÀ—2J$f9eaf12d-32ec-40cd-a1e3-22a6e4263093
+ˆ	cpp:S3539"ARemove this access specifier; it does not affect any declaration.(ĞòÚÚüÿÿÿÿ8–èÀ—2J$18300d03-e9b8-444e-9083-a4b049dbc250
+y	cpp:S3471""2Annotate this function with "override" or "final".(ÁòÌ×øÿÿÿÿ8˜èÀ—2J$ef7c0bcf-0aa5-4b60-802d-5c70918b8506

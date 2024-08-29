@@ -1,0 +1,5 @@
+
+	cpp:S3490	"VUse "=default" instead of the default implementation of this special member functions.(¿¯­™üÿÿÿÿ8õøåŞ—2J$301a1273-5085-4e8d-b709-fab88c198d2d
+p	cpp:S5817")This function should be declared "const".(Å¯ùßøÿÿÿÿ8Ãªˆü—2J$93a51bab-93fa-43b0-8540-5b364dc911ec
+§	cpp:S3230"`Do not assign data members in a constructor. Initialize member "m_vb" in an initialization list.(­Ñ—Œøÿÿÿÿ8ĞÏ¶ú—2J$a3d3e31e-ff2b-49dd-a165-a77fc0ec182f
+	cpp:S3490"VUse "=default" instead of the default implementation of this special member functions.(“ó”¶ùÿÿÿÿ8áµ¸ú—2J$1cbeffa7-9fa9-41a1-a195-78e4da1862d8
