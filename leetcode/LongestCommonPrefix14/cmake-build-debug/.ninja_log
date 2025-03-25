@@ -1,0 +1,9 @@
+# ninja log v6
+1	572	1742596602973736317	CMakeFiles/LongestCommonPrefix14.dir/main.cpp.o	5447e2111dafda1d
+573	651	1742596603545735829	LongestCommonPrefix14	2d69ea66265aa62f
+4	601	1742596630915712337	CMakeFiles/LongestCommonPrefix14.dir/main.cpp.o	5447e2111dafda1d
+601	677	1742596631513711820	LongestCommonPrefix14	2d69ea66265aa62f
+4	649	1742596682789667246	CMakeFiles/LongestCommonPrefix14.dir/main.cpp.o	5447e2111dafda1d
+649	737	1742596683434666680	LongestCommonPrefix14	2d69ea66265aa62f
+3	769	1742598518224066107	CMakeFiles/LongestCommonPrefix14.dir/main.cpp.o	5447e2111dafda1d
+769	865	1742598518990064690	LongestCommonPrefix14	2d69ea66265aa62f
