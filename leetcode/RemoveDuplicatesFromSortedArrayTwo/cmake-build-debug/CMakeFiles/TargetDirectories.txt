@@ -1,3 +1,3 @@
-/home/xcui/Folder/folder/tbd/tempfolder/cpp/interview/RemoveDuplicatesFromSortedArrayTwo/cmake-build-debug/CMakeFiles/RemoveDuplicatesFromSortedArrayTwo.dir
-/home/xcui/Folder/folder/tbd/tempfolder/cpp/interview/RemoveDuplicatesFromSortedArrayTwo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/xcui/Folder/folder/tbd/tempfolder/cpp/interview/RemoveDuplicatesFromSortedArrayTwo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xuelin/repo/cpp/leetcode/RemoveDuplicatesFromSortedArrayTwo/cmake-build-debug/CMakeFiles/RemoveDuplicatesFromSortedArrayTwo.dir
+/home/xuelin/repo/cpp/leetcode/RemoveDuplicatesFromSortedArrayTwo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xuelin/repo/cpp/leetcode/RemoveDuplicatesFromSortedArrayTwo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
